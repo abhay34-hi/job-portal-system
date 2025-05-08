@@ -67,11 +67,15 @@ The application should now be running on: http://localhost:5173
 
 ## Future Improvements
 
-- Backend integration using Node.js and Express or Firebase
 - User authentication system (login/register)
 - Search and filter functionality for jobs
 - Save or bookmark job functionality
 - Admin dashboard for managing job postings
+
+## for backend
+- i have used node.js
+- i have created server.js file
+- u have create a backend folder and u have to run it 
 
 ## Author
 
